@@ -10,7 +10,7 @@ import emergencyIcon from "../assets/emergency.png";
 import preventionIcon from "../assets/prevention.png";
 import jewelryIcon from "../assets/teeth_jewel.png";
 import extractionIcon from "../assets/tooth_extraction.png";
-import bracesIcon from "../assets/braces.png";
+import bracesIcon from "../assets/Braces.png";
 import { BOOKING_URL } from "../constants/link";
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Pagination, Autoplay } from "swiper/modules";
