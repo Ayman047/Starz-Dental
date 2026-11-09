@@ -5,8 +5,6 @@ The website provides patients with detailed information about dental services, c
 
 ---
 
----
-
 ## 📌 Features
 
 - 📱 **Fully Responsive Design:** Optimized for Mobile, Tablet, and Desktop displays.
