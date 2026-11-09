@@ -5,10 +5,6 @@ The website provides patients with detailed information about dental services, c
 
 ---
 
-## 🚀 Live Website
-
-*starzdental.in*
-
 ---
 
 ## 📌 Features
